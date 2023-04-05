@@ -40,6 +40,7 @@ body{
     width: 116px;
     border-radius: 30px;
     background-color: black;
+
     
 }
 .left-name{
@@ -246,9 +247,10 @@ b{
 .name-ic{
     color: black;   
 }
-/* h5{
-    color: black;
-} */
+.spa{
+    height: 5px;
+    width: 6px;
+}
 .name{
     color: black;
     position: absolute;
